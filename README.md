@@ -1,1 +1,3 @@
-# My-first-project
+int a,b,c;
+c=a+b;
+
